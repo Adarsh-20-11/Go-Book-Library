@@ -1,13 +1,13 @@
 function showAllBooks() {
-	// Code to show all books page
+	document.location.replace('./AllBooks.html');
 }
 
 function findBookById() {
-	// Code to find book by ID page
+	document.location.replace('./FindById.html');
 }
 
 function addBook() {
-	// Code to add another book page
+	document.location.replace('./AddBooks.html');
 }
 
 function deleteBook() {
